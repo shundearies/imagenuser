@@ -6,7 +6,8 @@
       "url": "https://raw.githubusercontent.com/shundearies/imagenuser/refs/heads/main/Especial1.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
       "acceso": "gratis",
-      "reproductor": "better_player"
+      "reproductor": "better_player",
+      "contrasena": "123r"
     }
   ]
 }
