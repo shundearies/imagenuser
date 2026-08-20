@@ -10,8 +10,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=NJY11432&password=VPQC5QkGK5nR&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=NJY11432&password=VPQC5QkGK5nR&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: NJY81019
@@ -23,8 +22,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=NJY81019&password=q4xDWUYMjKES&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=NJY81019&password=q4xDWUYMjKES&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: zap02
@@ -36,8 +34,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=zap02&password=APabkA3gqR9v&type=m
-3u_plus
+http://superxlatino.com:8880/get.php?username=zap02&password=APabkA3gqR9v&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: yasnamunoz504
@@ -48,8 +45,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=yasnamunoz504&password=dQwFJtKcrYh
-N&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=yasnamunoz504&password=dQwFJtKcrYhN&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: ch4k3p
@@ -61,8 +57,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=ch4k3p&password=ZtDsfDB2FvTm&type=
-m3u_plus
+http://superxlatino.com:8880/get.php?username=ch4k3p&password=ZtDsfDB2FvTm&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: LuisSegovia369
@@ -74,8 +69,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=LuisSegovia369&password=5JR8EmjxyPJ
-w&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=LuisSegovia369&password=5JR8EmjxyPJw&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: WUPhyg23ETmM
@@ -87,8 +81,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=WUPhyg23ETmM&password=nHhyEYLnv
-UYe&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=WUPhyg23ETmM&password=nHhyEYLnvUYe&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Wilson01
@@ -100,8 +93,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Wilson01&password=AmYz9AuPXVuE&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=Wilson01&password=AmYz9AuPXVuE&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: IPTV-212
@@ -113,8 +105,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=IPTV-212&password=kCx4sVP2v6Yr&type
-=m3u_plus
+http://superxlatino.com:8880/get.php?username=IPTV-212&password=kCx4sVP2v6Yr&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: JhulVilla
@@ -126,8 +117,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=JhulVilla&password=cbQqwVXHT3KF&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=JhulVilla&password=cbQqwVXHT3KF&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880 ├─ Usᴜᴀʀɪᴏ: EduardoMartinez
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: tMDqhypTgN4e
@@ -138,8 +128,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=EduardoMartinez&password=tMDqhypTgN
-4e&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=EduardoMartinez&password=tMDqhypTgN4e&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: DegRM3486759
@@ -151,8 +140,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/1
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=DegRM3486759&password=7gUvNxyztuxe
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=DegRM3486759&password=7gUvNxyztuxe&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Bspfull0325
@@ -164,8 +152,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Bspfull0325&password=dWQUzsfYAcfQ&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=Bspfull0325&password=dWQUzsfYAcfQ&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Netflix755M
@@ -177,8 +164,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Netflix755M&password=YCnLSvz43ug6&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=Netflix755M&password=YCnLSvz43ug6&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: QUISPE26
@@ -190,8 +176,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=QUISPE26&password=dGCqN2sKVRAf&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=QUISPE26&password=dGCqN2sKVRAf&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: mhutG3AusGbe
@@ -203,8 +188,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=mhutG3AusGbe&password=9z49qvU3ggK
-z&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=mhutG3AusGbe&password=9z49qvU3ggKz&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: WneG7j9vJmXD
@@ -216,8 +200,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=WneG7j9vJmXD&password=8NH9xpShFZ
-vM&type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
+http://superxlatino.com:8880/get.php?username=WneG7j9vJmXD&password=8NH9xpShFZvM&type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: edison1234
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: NUr2bsjdWnH8
@@ -228,8 +211,7 @@ vM&type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=edison1234&password=NUr2bsjdWnH8&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=edison1234&password=NUr2bsjdWnH8&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Gx74279336
@@ -241,8 +223,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Gx74279336&password=AwVxDmP6K7SF
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Gx74279336&password=AwVxDmP6K7SF&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Bertayjaime
@@ -254,8 +235,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Bertayjaime&password=gWUmm9SL7Jb8
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Bertayjaime&password=gWUmm9SL7Jb8&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 56988169142tch
@@ -267,8 +247,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=56988169142tch&password=JeRFs6cSA6
-2g&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=56988169142tch&password=JeRFs6cSA62g&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: vipjasonmax15
@@ -280,8 +259,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=vipjasonmax15&password=U9B2JdKN67z
-B&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=vipjasonmax15&password=U9B2JdKN67zB&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: jolu5984san
@@ -293,8 +271,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=jolu5984san&password=K3uWH4xnvvts&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=jolu5984san&password=K3uWH4xnvvts&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 56947359648C
@@ -305,8 +282,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Uʙɪᴄᴀᴄɪᴏɴ: America/Santiago
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/1
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ● ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=56947359648C&password=BDPkGyhqxeH
-z&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=56947359648C&password=BDPkGyhqxeHz&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Y9hvJJjCJcuP
@@ -318,8 +294,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Y9hvJJjCJcuP&password=Xd58WEpME74
-L&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Y9hvJJjCJcuP&password=Xd58WEpME74L&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: MatiCrack
@@ -331,8 +306,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=MatiCrack&password=mbdmDPkTnUpJ&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=MatiCrack&password=mbdmDPkTnUpJ&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: AndreaSilva
@@ -344,8 +318,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=AndreaSilva&password=3PqeKZCeEF3B&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=AndreaSilva&password=3PqeKZCeEF3B&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 56989346531ff
@@ -357,8 +330,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=56989346531ff&password=6BP7Q7N2Cb
-GN&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=56989346531ff&password=6BP7Q7N2CbGN&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: arturo202605
@@ -370,8 +342,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=arturo202605&password=DqYXmypMDuV
-m&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=arturo202605&password=DqYXmypMDuVm&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: josesolari
@@ -383,8 +354,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=josesolari&password=ZsvgUhWP8DB6&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=josesolari&password=ZsvgUhWP8DB6&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: DigitalService198a
@@ -395,8 +365,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Uʙɪᴄᴀᴄɪᴏɴ: America/Santiago ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=DigitalService198a&password=16378187&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=DigitalService198a&password=16378187&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: andrea123p
@@ -408,8 +377,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=andrea123p&password=6dw4E7fa2qCz&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=andrea123p&password=6dw4E7fa2qCz&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: mxeLveP5B34w
@@ -421,8 +389,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=mxeLveP5B34w&password=pbJ35Q4KMH
-4B&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=mxeLveP5B34w&password=pbJ35Q4KMH4B&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Tafur2025
@@ -434,8 +401,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Tafur2025&password=TRreVT7ESGpj&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=Tafur2025&password=TRreVT7ESGpj&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: IPTV74
@@ -447,8 +413,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=IPTV74&password=bUeY9WtkArwK&type=
-m3u_plus
+http://superxlatino.com:8880/get.php?username=IPTV74&password=bUeY9WtkArwK&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: meyfgdbnah
@@ -460,8 +425,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 3/6
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=meyfgdbnah&password=DCQHPQjTYhm4
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=meyfgdbnah&password=DCQHPQjTYhm4&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: gu4477br
@@ -473,8 +437,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=gu4477br&password=3bZ5xQp9MGrM&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=gu4477br&password=3bZ5xQp9MGrM&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Gx93617220
@@ -485,8 +448,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Gx93617220&password=V7zMZhzWpun7
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Gx93617220&password=V7zMZhzWpun7&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Aaron20000121
@@ -498,8 +460,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Aaron20000121&password=XDM7PySq4B
-9N&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Aaron20000121&password=XDM7PySq4B9N&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: yobjonropk
@@ -511,8 +472,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 3/6
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=yobjonropk&password=z2ftCj8yjTNx&type=
-m3u_plus
+http://superxlatino.com:8880/get.php?username=yobjonropk&password=z2ftCj8yjTNx&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: dvzrocsgbqs
@@ -524,8 +484,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 3/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=dvzrocsgbqs&password=7f8WkDBC5rMD&
-type=m3u_plus
+http://superxlatino.com:8880/get.php?username=dvzrocsgbqs&password=7f8WkDBC5rMD&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 56957088669
@@ -537,8 +496,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=56957088669&password=bDhcSmHnGuQ
-3&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=56957088669&password=bDhcSmHnGuQ3&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: sergio79183088
@@ -550,8 +508,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=sergio79183088&password=BNam829273
-96&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=sergio79183088&password=BNam82927396&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: yfWkzS6jEBJ4
@@ -563,8 +520,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=yfWkzS6jEBJ4&password=BSkbmD2kmcT
-9&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=yfWkzS6jEBJ4&password=BSkbmD2kmcT9&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880 ├─ Usᴜᴀʀɪᴏ: NJY6646
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: X3vq2bdx6V3q
@@ -575,8 +531,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=NJY6646&password=X3vq2bdx6V3q&type
-=m3u_plus
+http://superxlatino.com:8880/get.php?username=NJY6646&password=X3vq2bdx6V3q&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: baLS82SsZRhWw
@@ -588,8 +543,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=baLS82SsZRhWw&password=hDsm3q4G
-GcDb&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=baLS82SsZRhWw&password=hDsm3q4GGcDb&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: TFXLsxZYHAfu
@@ -601,8 +555,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=TFXLsxZYHAfu&password=nGcStd7QZuV
-q&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=TFXLsxZYHAfu&password=nGcStd7QZuVq&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: cervppjxpi
@@ -614,8 +567,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/6
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=cervppjxpi&password=tAWLFJtyD9pX&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=cervppjxpi&password=tAWLFJtyD9pX&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: pv9UW8Ga9xXn
@@ -627,8 +579,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=pv9UW8Ga9xXn&password=AZgAscQV9r
-Rg&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=pv9UW8Ga9xXn&password=AZgAscQV9rRg&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: H2E6vamEB3aA
@@ -640,8 +591,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=H2E6vamEB3aA&password=S2kAm2avTT
-AN&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=H2E6vamEB3aA&password=S2kAm2avTTAN&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: jCFFTj5M9gKm
@@ -653,8 +603,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=jCFFTj5M9gKm&password=r5ewqNVrVrRJ
-&type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
+http://superxlatino.com:8880/get.php?username=jCFFTj5M9gKm&password=r5ewqNVrVrRJ&type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 56988268320
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: H68M6q6Wff3p
@@ -665,8 +614,7 @@ http://superxlatino.com:8880/get.php?username=jCFFTj5M9gKm&password=r5ewqNVrVrRJ
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=56988268320&password=H68M6q6Wff3p&
-type=m3u_plus
+http://superxlatino.com:8880/get.php?username=56988268320&password=H68M6q6Wff3p&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Vntream0055
@@ -678,8 +626,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Vntream0055&password=FF5CCvqBQMD
-x&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Vntream0055&password=FF5CCvqBQMDx&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: luis738049207
@@ -691,8 +638,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=luis738049207&password=98756479239&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=luis738049207&password=98756479239&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: CristianAValdiviaF
@@ -703,8 +649,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=CristianAValdiviaF&password=LWPC5gXN
-yzjV&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=CristianAValdiviaF&password=LWPC5gXNyzjV&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: svuZLrCRC7VC
@@ -716,8 +661,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=svuZLrCRC7VC&password=rP94ccqJsBD
-R&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=svuZLrCRC7VC&password=rP94ccqJsBDR&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: jona72638
@@ -729,8 +673,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=jona72638&password=V3BWqLfHqfB7&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=jona72638&password=V3BWqLfHqfB7&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 87998966
@@ -742,8 +685,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=87998966&password=bsjkFkhxycwR&type
-=m3u_plus
+http://superxlatino.com:8880/get.php?username=87998966&password=bsjkFkhxycwR&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: wteScCMD8PG8
@@ -755,8 +697,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=wteScCMD8PG8&password=hJmVeKNc4u
-gT&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=wteScCMD8PG8&password=hJmVeKNc4ugT&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 987747928
@@ -768,8 +709,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=987747928&password=9kVZN99ef9UT&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=987747928&password=9kVZN99ef9UT&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: luistorres2
@@ -781,8 +721,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=luistorres2&password=QecdStDQnWue&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=luistorres2&password=QecdStDQnWue&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880 ├─ Usᴜᴀʀɪᴏ: eZMywAxMjE4L
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: QmexG9HEtxu6
@@ -793,8 +732,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 3/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=eZMywAxMjE4L&password=QmexG9HEtx
-u6&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=eZMywAxMjE4L&password=QmexG9HEtxu6&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 130226
@@ -806,8 +744,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=130226&password=K43wx3UbkHQb&type
-=m3u_plus
+http://superxlatino.com:8880/get.php?username=130226&password=K43wx3UbkHQb&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: VSANmfGGJZzH
@@ -819,8 +756,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=VSANmfGGJZzH&password=rbArpdaepnH
-u&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=VSANmfGGJZzH&password=rbArpdaepnHu&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Cristian118
@@ -831,8 +767,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Uʙɪᴄᴀᴄɪᴏɴ: America/Santiago ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Cristian118&password=aEJp5hk6qseb&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=Cristian118&password=aEJp5hk6qseb&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 74998680
@@ -844,8 +779,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=74998680&password=fdkvmZXMJv9L&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=74998680&password=fdkvmZXMJv9L&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: LucasSCTuko
@@ -857,8 +791,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 3/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=LucasSCTuko&password=5EZMJbvds4vE
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=LucasSCTuko&password=5EZMJbvds4vE&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: sftgqijxmp
@@ -870,8 +803,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/6
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=sftgqijxmp&password=gt4EpjvwAPpF&type
-=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
+http://superxlatino.com:8880/get.php?username=sftgqijxmp&password=gt4EpjvwAPpF&type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: jefersiptv
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: cT46mx8p6HA4
@@ -882,8 +814,7 @@ http://superxlatino.com:8880/get.php?username=sftgqijxmp&password=gt4EpjvwAPpF&t
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=jefersiptv&password=cT46mx8p6HA4&type
-=m3u_plus
+http://superxlatino.com:8880/get.php?username=jefersiptv&password=cT46mx8p6HA4&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: C65YXyLjgt9c
@@ -895,8 +826,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=C65YXyLjgt9c&password=w5RFjmrXHGqz
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=C65YXyLjgt9c&password=w5RFjmrXHGqz&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: anthonyrivera28
@@ -908,8 +838,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=anthonyrivera28&password=hkW7gFw3tB
-Yn&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=anthonyrivera28&password=hkW7gFw3tBYn&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Rodo
@@ -920,8 +849,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Rodo&password=J3Feh8NMVq59&type=m
-3u_plus
+http://superxlatino.com:8880/get.php?username=Rodo&password=J3Feh8NMVq59&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: p2MgrzRmGDmY
@@ -933,8 +861,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=p2MgrzRmGDmY&password=j6WbHGa6K
-LDR&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=p2MgrzRmGDmY&password=j6WbHGa6KLDR&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: lima88815678
@@ -946,8 +873,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=lima88815678&password=FwxykmLrtYap&
-type=m3u_plus
+http://superxlatino.com:8880/get.php?username=lima88815678&password=FwxykmLrtYap&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: mundoforbes023
@@ -959,8 +885,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=mundoforbes023&password=Ncus6vRDDz
-fu&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=mundoforbes023&password=Ncus6vRDDzfu&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: tatiana
@@ -972,8 +897,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=tatiana&password=Xb5unW4YpU92&type=
-m3u_plus
+http://superxlatino.com:8880/get.php?username=tatiana&password=Xb5unW4YpU92&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: joseandrade2056
@@ -985,8 +909,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=joseandrade2056&password=pYTjuMt5gD
-zr&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=joseandrade2056&password=pYTjuMt5gDzr&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: chechop2024
@@ -998,8 +921,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=chechop2024&password=bfRUaXJ2EWrU
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=chechop2024&password=bfRUaXJ2EWrU&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880 ├─ Usᴜᴀʀɪᴏ: FrancoR
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: hGb3w3ukbpwj
@@ -1010,8 +932,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=FrancoR&password=hGb3w3ukbpwj&type
-=m3u_plus
+http://superxlatino.com:8880/get.php?username=FrancoR&password=hGb3w3ukbpwj&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: User19000
@@ -1023,8 +944,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=User19000&password=58b4sCsUm55b&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=User19000&password=58b4sCsUm55b&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: V2fTJWLQFAck
@@ -1036,8 +956,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=V2fTJWLQFAck&password=PKku44XawA
-d4&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=V2fTJWLQFAck&password=PKku44XawAd4&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Pamela
@@ -1048,8 +967,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Uʙɪᴄᴀᴄɪᴏɴ: America/Santiago ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Pamela&password=bpSV6hAeTZW3&type
-=m3u_plus
+http://superxlatino.com:8880/get.php?username=Pamela&password=bpSV6hAeTZW3&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Agosto27
@@ -1061,8 +979,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Agosto27&password=ZwNyH9zVJEHG&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=Agosto27&password=ZwNyH9zVJEHG&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 56962969003f
@@ -1074,8 +991,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=56962969003f&password=g5HKzNmEPsL
-M&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=56962969003f&password=g5HKzNmEPsLM&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: claudio0007959976
@@ -1087,8 +1003,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=claudio0007959976&password=dRjkuPA4n
-xTQ&type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
+http://superxlatino.com:8880/get.php?username=claudio0007959976&password=dRjkuPA4nxTQ&type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: liliana18722
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: yubQnV5D7bDJ
@@ -1099,8 +1014,7 @@ xTQ&type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=liliana18722&password=yubQnV5D7bDJ&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=liliana18722&password=yubQnV5D7bDJ&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: DanielSoto
@@ -1112,8 +1026,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=DanielSoto&password=ZSnjxVwDw8pz&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=DanielSoto&password=ZSnjxVwDw8pz&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: RubenMMuNoz
@@ -1125,8 +1038,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 3/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=RubenMMuNoz&password=bQm9BKnpT6
-ap&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=RubenMMuNoz&password=bQm9BKnpT6ap&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: ric3355ara
@@ -1138,8 +1050,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=ric3355ara&password=G5RW2FAQPded&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=ric3355ara&password=G5RW2FAQPded&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: juansilva00
@@ -1151,8 +1062,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=juansilva00&password=R9fAvbjvVF4p&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=juansilva00&password=R9fAvbjvVF4p&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: P3EmAfDrSnHw
@@ -1164,8 +1074,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=P3EmAfDrSnHw&password=CawAtcYxhdu
-C&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=P3EmAfDrSnHw&password=CawAtcYxhduC&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Cflores
@@ -1176,8 +1085,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Uʙɪᴄᴀᴄɪᴏɴ: America/Santiago
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ● ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Cflores&password=gAbbhqBCm566&type=
-m3u_plus
+http://superxlatino.com:8880/get.php?username=Cflores&password=gAbbhqBCm566&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: familiaquiroz2
@@ -1189,8 +1097,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=familiaquiroz2&password=2fbTGuDEJFgE
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=familiaquiroz2&password=2fbTGuDEJFgE&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 56993670595w
@@ -1202,8 +1109,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=56993670595w&password=3xENdbXEK6p
-E&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=56993670595w&password=3xENdbXEK6pE&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: olulo01
@@ -1215,8 +1121,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=olulo01&password=3QBQeVUSakuZ&type
-=m3u_plus
+http://superxlatino.com:8880/get.php?username=olulo01&password=3QBQeVUSakuZ&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880 ├─ Usᴜᴀʀɪᴏ: flor.beltran
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: 27072014
@@ -1227,8 +1132,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=flor.beltran&password=27072014&type=m3
-u_plus
+http://superxlatino.com:8880/get.php?username=flor.beltran&password=27072014&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: maikga
@@ -1240,8 +1144,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 3/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=maikga&password=SrBMPsqKKaMG&type
-=m3u_plus
+http://superxlatino.com:8880/get.php?username=maikga&password=SrBMPsqKKaMG&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: DigitalService085
@@ -1253,8 +1156,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=DigitalService085&password=17172983&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=DigitalService085&password=17172983&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: D48V6eMVzjSR
@@ -1265,8 +1167,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Uʙɪᴄᴀᴄɪᴏɴ: America/Santiago ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=D48V6eMVzjSR&password=mJTWHL7djNf
-c&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=D48V6eMVzjSR&password=mJTWHL7djNfc&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: wMHxNNb7jbsa
@@ -1278,8 +1179,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 3/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=wMHxNNb7jbsa&password=rHaYqWtw2Bg
-u&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=wMHxNNb7jbsa&password=rHaYqWtw2Bgu&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: America91683
@@ -1291,8 +1191,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=America91683&password=aUQZRQMkycc
-L&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=America91683&password=aUQZRQMkyccL&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Sticksan123
@@ -1304,8 +1203,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Sticksan123&password=JdDa2SLWTEej&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=Sticksan123&password=JdDa2SLWTEej&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Eduardo28904
@@ -1317,8 +1215,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Eduardo28904&password=aE7XM4jnAXsB
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Eduardo28904&password=aE7XM4jnAXsB&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Lalo2
@@ -1330,8 +1227,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Lalo2&password=HSBYJbjeZKSe&type=m
-3u_plus
+http://superxlatino.com:8880/get.php?username=Lalo2&password=HSBYJbjeZKSe&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: jhon.hernandez
@@ -1343,8 +1239,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=jhon.hernandez&password=GvNcAK2PEd
-Eb&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=jhon.hernandez&password=GvNcAK2PEdEb&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: sgxfickrzv
@@ -1355,8 +1250,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/6
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=sgxfickrzv&password=QXrTDuGxGmAG&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=sgxfickrzv&password=QXrTDuGxGmAG&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: nel6463
@@ -1368,8 +1262,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=nel6463&password=Tpc44WXGzcyN&type
-=m3u_plus
+http://superxlatino.com:8880/get.php?username=nel6463&password=Tpc44WXGzcyN&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Kriiishnna
@@ -1381,8 +1274,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Kriiishnna&password=KNFDuEETeTDF&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=Kriiishnna&password=KNFDuEETeTDF&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: ValeriaGajardo
@@ -1393,8 +1285,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Uʙɪᴄᴀᴄɪᴏɴ: America/Santiago
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ● ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=ValeriaGajardo&password=6wPYmZvbJcn
-X&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=ValeriaGajardo&password=6wPYmZvbJcnX&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Jacke151125
@@ -1406,8 +1297,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Jacke151125&password=wMA33BEVBEqL
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Jacke151125&password=wMA33BEVBEqL&type=m3u_plus
 Alex Mendez:
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
@@ -1420,8 +1310,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=7wqnyS9mdTCQ&password=E2DUUm7DT
-QuJ&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=7wqnyS9mdTCQ&password=E2DUUm7DTQuJ&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: sebas300626
@@ -1433,8 +1322,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=sebas300626&password=HdUZznHHS4W
-5&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=sebas300626&password=HdUZznHHS4W5&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: oyszujniqco
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: nwQYvqAmy4cC
@@ -1445,8 +1333,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 3/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=oyszujniqco&password=nwQYvqAmy4cC&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=oyszujniqco&password=nwQYvqAmy4cC&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: marco090125
@@ -1458,8 +1345,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=marco090125&password=kff4rAAAgZsd&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=marco090125&password=kff4rAAAgZsd&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Gx74170999
@@ -1471,8 +1357,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Gx74170999&password=B3AYjJzj35ux&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=Gx74170999&password=B3AYjJzj35ux&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: pbhpzexfcs
@@ -1484,8 +1369,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/6
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=pbhpzexfcs&password=N2GwGTJwxRNe&
-type=m3u_plus
+http://superxlatino.com:8880/get.php?username=pbhpzexfcs&password=N2GwGTJwxRNe&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Javiera.pailacura23
@@ -1497,8 +1381,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Javiera.pailacura23&password=EesWx79x
-7zB3&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Javiera.pailacura23&password=EesWx79x7zB3&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: pierreprimero23
@@ -1510,8 +1393,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=pierreprimero23&password=K9Q7EERhRX
-LA&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=pierreprimero23&password=K9Q7EERhRXLA&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: florixn00
@@ -1523,8 +1405,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=florixn00&password=LvW8eQsuPA8m&typ
-e=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
+http://superxlatino.com:8880/get.php?username=florixn00&password=LvW8eQsuPA8m&type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Dcuenta28
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: r2rLbhDMd9zW
@@ -1535,8 +1416,7 @@ e=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Dcuenta28&password=r2rLbhDMd9zW&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=Dcuenta28&password=r2rLbhDMd9zW&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: MEqnWtvb6q6m
@@ -1548,8 +1428,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=MEqnWtvb6q6m&password=T2jFBz7mg7
-Us&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=MEqnWtvb6q6m&password=T2jFBz7mg7Us&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: S3rgi0E
@@ -1561,8 +1440,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 3/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=S3rgi0E&password=Zjw7W94QJyrs&type=
-m3u_plus
+http://superxlatino.com:8880/get.php?username=S3rgi0E&password=Zjw7W94QJyrs&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 99promo12m
@@ -1573,8 +1451,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 3/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=99promo12m&password=63KznRb9hShc&
-type=m3u_plus
+http://superxlatino.com:8880/get.php?username=99promo12m&password=63KznRb9hShc&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: hhernandez
@@ -1586,8 +1463,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=hhernandez&password=vYRb89bKsHJr&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=hhernandez&password=vYRb89bKsHJr&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Perugol2025xtr
@@ -1599,8 +1475,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Perugol2025xtr&password=A2yhV7qkd3Q
-A&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Perugol2025xtr&password=A2yhV7qkd3QA&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: RICARDOBRITO6589
@@ -1611,8 +1486,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Uʙɪᴄᴀᴄɪᴏɴ: America/Santiago
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ● ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=RICARDOBRITO6589&password=CuU8wj
-s9t7&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=RICARDOBRITO6589&password=CuU8wjs9t7&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: FareMoraFM
@@ -1624,8 +1498,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=FareMoraFM&password=KSc3GbVhvKTa&
-type=m3u_plus
+http://superxlatino.com:8880/get.php?username=FareMoraFM&password=KSc3GbVhvKTa&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: dxEN7gkMBaLM
@@ -1637,8 +1510,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=dxEN7gkMBaLM&password=Jrr2VW97Wv
-Xj&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=dxEN7gkMBaLM&password=Jrr2VW97WvXj&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Eliasl
@@ -1650,8 +1522,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Eliasl&password=9mrRcMrgXfde&type=m3
-u_plus
+http://superxlatino.com:8880/get.php?username=Eliasl&password=9mrRcMrgXfde&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 56981440962f
@@ -1663,8 +1534,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=56981440962f&password=RXBaUNTxFGH
-Z&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=56981440962f&password=RXBaUNTxFGHZ&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Hernan_hernan
@@ -1676,8 +1546,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Hernan_hernan&password=fcDcx7fn8vGX
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Hernan_hernan&password=fcDcx7fn8vGX&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Rvasquez25
@@ -1689,8 +1558,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Rvasquez25&password=Yg34vguF8dfw&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=Rvasquez25&password=Yg34vguF8dfw&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Gx26317478
@@ -1701,8 +1569,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Uʙɪᴄᴀᴄɪᴏɴ: America/Santiago ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Gx26317478&password=YY6gxjKgZ9WW
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Gx26317478&password=YY6gxjKgZ9WW&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: turkonce1124
@@ -1714,8 +1581,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=turkonce1124&password=vuDzjW8QXMpV
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=turkonce1124&password=vuDzjW8QXMpV&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: cgzemyhsoq
@@ -1727,8 +1593,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/6
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=cgzemyhsoq&password=v92JrrFbyavA&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=cgzemyhsoq&password=v92JrrFbyavA&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Jorge_iptv
@@ -1740,8 +1605,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Jorge_iptv&password=TfGpSwGn9VaS&ty
-pe=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
+http://superxlatino.com:8880/get.php?username=Jorge_iptv&password=TfGpSwGn9VaS&type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: RdFZHqCrQ7At
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: 2EzFadKKdTdV
@@ -1752,8 +1616,7 @@ pe=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=RdFZHqCrQ7At&password=2EzFadKKdTd
-V&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=RdFZHqCrQ7At&password=2EzFadKKdTdV&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Wpasarin1
@@ -1765,8 +1628,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Wpasarin1&password=fgGeKmzAZ3MG&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=Wpasarin1&password=fgGeKmzAZ3MG&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: qkwqgowgeq
@@ -1778,8 +1640,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/6
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=qkwqgowgeq&password=bKXvmsh6NUZE
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=qkwqgowgeq&password=bKXvmsh6NUZE&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: JLPsatTV
@@ -1790,8 +1651,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=JLPsatTV&password=vZcQpzDnWAYL&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=JLPsatTV&password=vZcQpzDnWAYL&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: SuperGas3444
@@ -1803,8 +1663,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=SuperGas3444&password=nRaM5Qv3Q5
-Yv&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=SuperGas3444&password=nRaM5Qv3Q5Yv&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Guido6948
@@ -1816,8 +1675,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Guido6948&password=aYLcj7VtUmkW&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=Guido6948&password=aYLcj7VtUmkW&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: sergiovillalobos071225
@@ -1829,8 +1687,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=sergiovillalobos071225&password=mJRnG
-HMMdRKH&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=sergiovillalobos071225&password=mJRnGHMMdRKH&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: cristianrodrigues
@@ -1842,8 +1699,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=cristianrodrigues&password=4KpfvausDffu
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=cristianrodrigues&password=4KpfvausDffu&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: JzBWwsGPDDgR
@@ -1855,8 +1711,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=JzBWwsGPDDgR&password=Gd4BQsHbJ
-7Ku&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=JzBWwsGPDDgR&password=Gd4BQsHbJ7Ku&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: peruanocine0050
@@ -1868,8 +1723,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=peruanocine0050&password=MLeDtWfSY
-mqn&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=peruanocine0050&password=MLeDtWfSYmqn&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880 ├─ Usᴜᴀʀɪᴏ: 5dwc87FBmgs7
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: 6x8CLu8PgAHg
@@ -1880,8 +1734,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=5dwc87FBmgs7&password=6x8CLu8PgA
-Hg&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=5dwc87FBmgs7&password=6x8CLu8PgAHg&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: TLpdXZQneVqA
@@ -1893,8 +1746,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=TLpdXZQneVqA&password=je7h5T52hQE
-w&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=TLpdXZQneVqA&password=je7h5T52hQEw&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Hern2025
@@ -1906,8 +1758,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Hern2025&password=ZuZPSAvX7rnM&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=Hern2025&password=ZuZPSAvX7rnM&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: user700
@@ -1918,8 +1769,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Uʙɪᴄᴀᴄɪᴏɴ: America/Santiago ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=user700&password=L3FNqCjjyfN6&type=
-m3u_plus
+http://superxlatino.com:8880/get.php?username=user700&password=L3FNqCjjyfN6&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: martin2025
@@ -1931,8 +1781,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=martin2025&password=qhCcwj8ZSLC5&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=martin2025&password=qhCcwj8ZSLC5&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: probvs300325
@@ -1944,8 +1793,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=probvs300325&password=RxfXhZ3fRZFw
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=probvs300325&password=RxfXhZ3fRZFw&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Gx64895039
@@ -1957,8 +1805,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Gx64895039&password=wKjV4BFC34bE&
-type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
+http://superxlatino.com:8880/get.php?username=Gx64895039&password=wKjV4BFC34bE&type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: zRQ45eEfVAAA
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: wkM5YFeESdPW
@@ -1969,8 +1816,7 @@ type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=zRQ45eEfVAAA&password=wkM5YFeESd
-PW&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=zRQ45eEfVAAA&password=wkM5YFeESdPW&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Gx89602060a
@@ -1982,8 +1828,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Gx89602060a&password=FMDmprdPe5sk
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Gx89602060a&password=FMDmprdPe5sk&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 270923
@@ -1995,8 +1840,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 3/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=270923&password=HDKFg2x3jWvM&type
-=m3u_plus
+http://superxlatino.com:8880/get.php?username=270923&password=HDKFg2x3jWvM&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: cr874Lop
@@ -2008,8 +1852,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=cr874Lop&password=3X8EEAvkdFL6&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=cr874Lop&password=3X8EEAvkdFL6&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Robertoiptv
@@ -2021,8 +1864,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Robertoiptv&password=vXzEdmrfc2g9&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=Robertoiptv&password=vXzEdmrfc2g9&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: AA4aKTSub4x678
@@ -2034,8 +1876,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=AA4aKTSub4x678&password=aTHTbAFW
-HaJj&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=AA4aKTSub4x678&password=aTHTbAFWHaJj&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: kgzeadqryh
@@ -2046,8 +1887,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Uʙɪᴄᴀᴄɪᴏɴ: America/Santiago
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/6
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ● ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=kgzeadqryh&password=AkWdrD97VDyp&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=kgzeadqryh&password=AkWdrD97VDyp&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Heyddi1133
@@ -2059,8 +1899,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Heyddi1133&password=u38BuCjubcKW&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=Heyddi1133&password=u38BuCjubcKW&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: RkM3DPg6TXKa
@@ -2072,8 +1911,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=RkM3DPg6TXKa&password=RcuM49qDA
-uvy&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=RkM3DPg6TXKa&password=RcuM49qDAuvy&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: vj9V988RnkAJ
@@ -2085,8 +1923,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/1
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=vj9V988RnkAJ&password=zkmLnsstTHD
-W&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=vj9V988RnkAJ&password=zkmLnsstTHDW&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880 ├─ Usᴜᴀʀɪᴏ: mWWDfMaUmFpc
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: WwHbLuDQH2fm
@@ -2097,8 +1934,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=mWWDfMaUmFpc&password=WwHbLuD
-QH2fm&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=mWWDfMaUmFpc&password=WwHbLuDQH2fm&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 56965563924f
@@ -2110,8 +1946,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=56965563924f&password=ZWZQvNNUqUf
-4&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=56965563924f&password=ZWZQvNNUqUf4&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Lino2801
@@ -2123,8 +1958,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Lino2801&password=5qMxEWubvrUx&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=Lino2801&password=5qMxEWubvrUx&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: CeaJbPJq3jMM
@@ -2135,8 +1969,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Uʙɪᴄᴀᴄɪᴏɴ: America/Santiago ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=CeaJbPJq3jMM&password=xp9sMnbcA3n
-G&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=CeaJbPJq3jMM&password=xp9sMnbcA3nG&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: manfzuijjn
@@ -2148,8 +1981,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/6
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=manfzuijjn&password=ZreX3dw7TaPL&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=manfzuijjn&password=ZreX3dw7TaPL&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 99mauriciocolom
@@ -2161,8 +1993,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=99mauriciocolom&password=ffHkpyChmK
-Qy&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=99mauriciocolom&password=ffHkpyChmKQy&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: mercedes250426
@@ -2174,8 +2005,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=mercedes250426&password=EvtK5pByWd
-Zu&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=mercedes250426&password=EvtK5pByWdZu&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: JoseElgueta
@@ -2187,8 +2017,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=JoseElgueta&password=7DVAjvTEBeFD&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=JoseElgueta&password=7DVAjvTEBeFD&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Gx9926829
@@ -2200,8 +2029,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Gx9926829&password=UuZE8WEdKvmZ&
-type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Gx9926829&password=UuZE8WEdKvmZ&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: hn5EvsLhXJ2g
@@ -2213,8 +2041,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=hn5EvsLhXJ2g&password=kKWKnEXLxN2
-7&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=hn5EvsLhXJ2g&password=kKWKnEXLxN27&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: yEYqzBhgk6kc
@@ -2225,8 +2052,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=yEYqzBhgk6kc&password=xq33FMgRNv4
-8&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=yEYqzBhgk6kc&password=xq33FMgRNv48&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Gx36294738
@@ -2238,8 +2064,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Gx36294738&password=6Dd6Fz3eKCJG&
-type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Gx36294738&password=6Dd6Fz3eKCJG&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: MichellMestre
@@ -2251,8 +2076,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=MichellMestre&password=zrgw23N7pgr6&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=MichellMestre&password=zrgw23N7pgr6&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: bernardagonzalez
@@ -2263,8 +2087,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Uʙɪᴄᴀᴄɪᴏɴ: America/Santiago
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ● ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=bernardagonzalez&password=eRxyggZd7
-Vcp&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=bernardagonzalez&password=eRxyggZd7Vcp&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 963908683p
@@ -2276,8 +2099,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=963908683p&password=gJFaGvVrbxfK&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=963908683p&password=gJFaGvVrbxfK&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 19629372688
@@ -2289,8 +2111,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=19629372688&password=6Ny6NAfUFAuk
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=19629372688&password=6Ny6NAfUFAuk&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 8bkRsJfw3L2V
@@ -2302,8 +2123,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=8bkRsJfw3L2V&password=DxPKe8GH4ct
-M&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=8bkRsJfw3L2V&password=DxPKe8GH4ctM&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880 ├─ Usᴜᴀʀɪᴏ: L9Z79HYAeVg4
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: AfDa2Tf8UVHK
@@ -2314,8 +2134,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=L9Z79HYAeVg4&password=AfDa2Tf8UVH
-K&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=L9Z79HYAeVg4&password=AfDa2Tf8UVHK&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: MYANEZL
@@ -2327,8 +2146,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=MYANEZL&password=3XPRkPBLTHzN&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=MYANEZL&password=3XPRkPBLTHzN&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Gx79984805c
@@ -2340,8 +2158,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Gx79984805c&password=XYgq4szwH7Q
-m&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Gx79984805c&password=XYgq4szwH7Qm&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: jp0x004
@@ -2353,8 +2170,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=jp0x004&password=9PBuLEEUV83R&type
-=m3u_plus
+http://superxlatino.com:8880/get.php?username=jp0x004&password=9PBuLEEUV83R&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: 56989346531ff
@@ -2366,8 +2182,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=56989346531ff&password=6BP7Q7N2Cb
-GN&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=56989346531ff&password=6BP7Q7N2CbGN&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: titifigueroa1
@@ -2379,8 +2194,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=titifigueroa1&password=p84CKaDJsufG&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=titifigueroa1&password=p84CKaDJsufG&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Marx6.132
@@ -2392,8 +2206,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Marx6.132&password=zYvLhXaA79aH&typ
-e=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
+http://superxlatino.com:8880/get.php?username=Marx6.132&password=zYvLhXaA79aH&type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: pmemipyoyq
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: MTryR3V7Usa2
@@ -2404,8 +2217,7 @@ e=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/6
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=pmemipyoyq&password=MTryR3V7Usa2&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=pmemipyoyq&password=MTryR3V7Usa2&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: ricardo0805
@@ -2417,8 +2229,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=ricardo0805&password=G8CQxdJs2zPN&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=ricardo0805&password=G8CQxdJs2zPN&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: gcdsevhafe
@@ -2430,8 +2241,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/6
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=gcdsevhafe&password=VLWb2zShQ8A2&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=gcdsevhafe&password=VLWb2zShQ8A2&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: familia2025
@@ -2442,8 +2252,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=familia2025&password=HUmhrXe4C2s5&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=familia2025&password=HUmhrXe4C2s5&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Gx95747167
@@ -2455,8 +2264,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Gx95747167&password=bM65nNKp92Em
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=Gx95747167&password=bM65nNKp92Em&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: y44mRm28AK6Y
@@ -2468,8 +2276,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/1
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=y44mRm28AK6Y&password=mmwTGjFzy
-yYn&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=y44mRm28AK6Y&password=mmwTGjFzyyYn&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: NJY11432
@@ -2480,8 +2287,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Uʙɪᴄᴀᴄɪᴏɴ: America/Santiago
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ● ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=NJY11432&password=VPQC5QkGK5nR&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=NJY11432&password=VPQC5QkGK5nR&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: NJY81019
@@ -2493,8 +2299,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 2/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=NJY81019&password=q4xDWUYMjKES&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=NJY81019&password=q4xDWUYMjKES&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: zap02
@@ -2506,8 +2311,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=zap02&password=APabkA3gqR9v&type=m
-3u_plus
+http://superxlatino.com:8880/get.php?username=zap02&password=APabkA3gqR9v&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: yasnamunoz504
@@ -2519,8 +2323,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=yasnamunoz504&password=dQwFJtKcrYh
-N&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=yasnamunoz504&password=dQwFJtKcrYhN&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: LuisSegovia369
@@ -2532,8 +2335,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=LuisSegovia369&password=5JR8EmjxyPJ
-w&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=LuisSegovia369&password=5JR8EmjxyPJw&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Wilson01
@@ -2545,8 +2347,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Wilson01&password=AmYz9AuPXVuE&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=Wilson01&password=AmYz9AuPXVuE&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: IPTV-212
@@ -2558,8 +2359,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=IPTV-212&password=kCx4sVP2v6Yr&type
-=m3u_plus
+http://superxlatino.com:8880/get.php?username=IPTV-212&password=kCx4sVP2v6Yr&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: WUPhyg23ETmM
@@ -2570,8 +2370,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Uʙɪᴄᴀᴄɪᴏɴ: America/Santiago ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=WUPhyg23ETmM&password=nHhyEYLnv
-UYe&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=WUPhyg23ETmM&password=nHhyEYLnvUYe&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: JhulVilla
@@ -2583,8 +2382,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 1/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=JhulVilla&password=cbQqwVXHT3KF&typ
-e=m3u_plus
+http://superxlatino.com:8880/get.php?username=JhulVilla&password=cbQqwVXHT3KF&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: DegRM3486759
@@ -2596,8 +2394,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/1
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=DegRM3486759&password=7gUvNxyztuxe
-&type=m3u_plus
+http://superxlatino.com:8880/get.php?username=DegRM3486759&password=7gUvNxyztuxe&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: EduardoMartinez
@@ -2609,8 +2406,7 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=EduardoMartinez&password=tMDqhypTgN
-4e&type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
+http://superxlatino.com:8880/get.php?username=EduardoMartinez&password=tMDqhypTgN4e&type=m3u_plus Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Netflix755M
 ├─ Cᴏɴᴛʀᴀsᴇɴᴀ: YCnLSvz43ug6
@@ -2621,8 +2417,7 @@ http://superxlatino.com:8880/get.php?username=EduardoMartinez&password=tMDqhypTg
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Netflix755M&password=YCnLSvz43ug6&ty
-pe=m3u_plus
+http://superxlatino.com:8880/get.php?username=Netflix755M&password=YCnLSvz43ug6&type=m3u_plus
 Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ╭─ Sᴇʀᴠɪᴅᴏʀ: http://superxlatino.com:8880
 ├─ Usᴜᴀʀɪᴏ: Bspfull0325
@@ -2634,6 +2429,5 @@ Esᴄᴀɴᴇʀ ɪᴘᴛᴠ 4.0
 ├─ Cᴏɴᴇxɪᴏɴᴇs: 0/3
 ╰─➤ ● Aɴɢᴇʟ Exsᴘᴇᴄᴛʀᴜs ●
 ● Lɪsᴛᴀ ᴍ3ᴜ:
-http://superxlatino.com:8880/get.php?username=Bspfull0325&password=dWQUzsfYAcfQ&t
-ype=m3u_plus
+http://superxlatino.com:8880/get.php?username=Bspfull0325&password=dWQUzsfYAcfQ&type=m3u_plus
 
